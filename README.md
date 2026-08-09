@@ -1,7 +1,9 @@
 Joseph La Grone — Cybersecurity Portfolio
-United States Navy Veteran
+U.S. Navy Veteran • Cybersecurity Analyst • SOC Analyst • Threat Intelligence Analyst
 
-Aspiring SOC Analyst, Cybersecurity Analyst, and Threat Intelligence Analyst with 6+ years of military experience in electronic warfare, intelligence analysis, and real‑time threat monitoring. I combine hands‑on cybersecurity training with operational discipline from high‑security environments. This portfolio showcases practical work in packet analysis, threat detection, incident response, and blue‑team defensive labs.
+Aspiring cybersecurity professional with 6+ years of military experience in electronic warfare, intelligence analysis, and real-time threat monitoring.
+
+This portfolio showcases hands-on work in packet analysis, threat detection, incident response, and blue-team defensive labs.
 
 Certifications
 CompTIA A+
@@ -14,16 +16,20 @@ CompTIA CySA+
 
 Roles I’m Targeting
 SOC Analyst
-Monitors security alerts, analyzes suspicious activity, and supports incident response. My Navy intelligence background and CySA+ certification align directly with SOC workflows, including log analysis, anomaly detection, and operational reporting.
+Monitors security alerts, analyzes suspicious activity, and supports incident response.
+My Navy intelligence background and CySA+ certification align directly with SOC workflows.
 
 Cybersecurity Analyst
-Protects systems by analyzing threats, strengthening defenses, and supporting IR. My hands‑on labs, certifications, and experience with secure communications reinforce this role.
+Protects systems by analyzing threats, strengthening defenses, and supporting IR.
+My hands-on labs and experience with secure communications reinforce this role.
 
 Threat Intelligence Analyst
-Researches adversaries, attack patterns, and emerging threats. My cryptologic experience analyzing 8,000+ intelligence signals and producing 1,500+ time‑sensitive reports directly supports threat intel work.
+Researches adversaries, attack patterns, and emerging threats.
+My cryptologic experience analyzing 8,000+ intelligence signals and producing 1,500+ time-sensitive reports directly supports threat intel work.
 
 Defense Contractor IT & Security Roles
-Supports secure military/government systems. My TS/SCI eligibility, Navy background, and experience with OPSEC, secure communications, and classified environments make me well‑suited for contractor positions.
+Supports secure military/government systems.
+My Navy background, OPSEC experience, and classified-environment discipline make me well-suited for contractor positions.
 
 Technical Skills
 Cybersecurity & Security Operations
@@ -41,12 +47,12 @@ Executed hardware refresh projects across multiple locations
 
 Performed troubleshooting and diagnostics to minimize downtime
 
-Provided on‑call support and maintained high availability
+Provided on-call support and maintained high availability
 
 Cryptologic Technician / BFEA Analyst — U.S. Navy (2018–2020)
 Monitored and analyzed 8,000+ intelligence signals
 
-Produced 1,500+ time‑sensitive intelligence reports
+Produced 1,500+ time-sensitive intelligence reports
 
 Conducted threat analysis and anomaly detection
 
@@ -67,6 +73,7 @@ Conducted diagnostics and preventive maintenance
 Identified threat indicators and system anomalies
 
 IT Support Experience (Training & Labs)
+Resolved 50+ technical support scenarios
 
 Managed user accounts and permissions in Active Directory
 
@@ -109,6 +116,8 @@ National Defense Service Medal (NDSM)
 Letter of Appreciation (LOA)
 
 About Me
-I’m a U.S. Navy veteran transitioning into cybersecurity with a focus on SOC operations, threat intelligence, and defensive security. My background in electronic warfare and intelligence analysis gives me a strong foundation in real‑time monitoring, anomaly detection, and secure operations. I’m continuing to build hands‑on experience through labs, projects, and technical training.
+I’m a U.S. Navy veteran transitioning into cybersecurity with a focus on SOC operations, threat intelligence, and defensive security.
 
+My background in electronic warfare and intelligence analysis gives me a strong foundation in real-time monitoring, anomaly detection, and secure operations.
 
+I’m continuing to build hands-on experience through labs, projects, and technical training.
